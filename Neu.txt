@@ -6,5 +6,6 @@ print(a)
 
 sfaafaf
 fqeqqegtewq
-ffetqetq
-afadfsf
+
+
+kkkkkkkkkk
